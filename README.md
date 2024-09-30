@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vince</h1>
-<h3 align="center">A BS Computer Science student in University of the Philippines - Los Banos</h3>
+<h3 align="center">A BS Computer Science student in the University of the Philippines - Los Banos</h3>
 
 - 🔭 I’m currently working on **a budget app**
 
