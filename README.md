@@ -1,6 +1,8 @@
 # Hello! 👾
 <summary>
-## My name is Vince
+<h1>
+My name is Vince
+</h1>
 </summary>
 ### BS Computer Science | University of the Philippines Los Baños
 
