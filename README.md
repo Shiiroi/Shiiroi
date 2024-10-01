@@ -1,13 +1,14 @@
 # Hello! 👾
-<summary>
-<h1>
-My name is Vince
-</h1>
-</summary>
-### BS Computer Science | University of the Philippines Los Baños
 
+<summary>
+  <h2>My name is Vince</h1>
+</summary>
+
+
+## BS Computer Science | University of the Philippines Los Baños
 - 🔭 Working on a **Budget App**
 - 🌱 Learning **MERN Stack**
+
 
 ## 🌟 Featured Project
 
