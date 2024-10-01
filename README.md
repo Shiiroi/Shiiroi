@@ -4,7 +4,7 @@
 #### I am currently
 
 - 🔭 Working on a **Budget App**
-- 🌱 Learning **MERN Stack**
+- 🌱 Learning **MERN**
 
 ## 🌟 Featured Project
 
