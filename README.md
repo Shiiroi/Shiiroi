@@ -1,5 +1,4 @@
-# Hello, World! 🌎
-<h1 align="center">Hi , I'm Vince</h1>
+<h1 align="center">Hello! I'm Vince</h1>
 <h3 align="center">BS Computer Science | University of the Philippines - Los Banos</h3>
 
 - 🔭 I’m currently working on **a budget app**
