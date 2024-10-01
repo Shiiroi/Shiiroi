@@ -1,3 +1,4 @@
+<style>h1 { border-bottom: 0; } </style>
 <h1 align="left" style="text-decoration:none;">Hello! I'm Vince</h1>
 <h3 align="left" style="border-bottom: 2px solid black;">BS Computer Science | University of the Philippines Los Baños</h3>
 
