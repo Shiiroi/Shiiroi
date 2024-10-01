@@ -1,5 +1,5 @@
-<h1 align="center">Hello! I'm Vince</h1>
-<h3 align="center">BS Computer Science | University of the Philippines - Los Banos</h3>
+<h1 align="left">Hello! I'm Vince</h1>
+<h3 align="left">BS Computer Science | University of the Philippines Los Baños</h3>
 
 - 🔭 I’m currently working on **a budget app**
 
