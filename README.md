@@ -1,10 +1,6 @@
 # Hello! 👾
 
 ### My name is Vince, a Computer Science student at the University of the Philippines Los Baños.
-#### I am currently
-
-- 🔭 Working on a **Budget App**
-- 🌱 Learning **MERN**
 
 ## 🌟 Featured Project
 
